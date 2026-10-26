@@ -1,0 +1,6 @@
+# Dependencias de ejecución para Streamlit Community Cloud
+joblib==1.6.0
+numpy==2.5.4
+pandas==3.1.0
+scikit-learn==1.9.0
+streamlit==1.66.1

@@ -1,0 +1,15 @@
+{
+  "edad": 52,
+  "sexo": 1,
+  "tipo_dolor_toracico": 1,
+  "presion_arterial_reposo": 125,
+  "colesterol_serico": 212,
+  "glucosa_ayunas_alta": 0,
+  "resultado_electrocardiograma_reposo": 1,
+  "frecuencia_cardiaca_maxima": 168,
+  "angina_inducida_ejercicio": 0,
+  "depresion_st_ejercicio": 1,
+  "pendiente_segmento_st": 2,
+  "vasos_principales_observados": 0,
+  "resultado_prueba_talio": 3
+}
