@@ -4,7 +4,7 @@ Proyecto de portfolio de Data Science sobre el conjunto **Heart Disease** de
 UCI. Incluye un notebook de análisis, un pipeline de Random Forest serializado,
 una aplicación Streamlit y una interfaz de línea de comandos para probar una
 clasificación experimental. 
-**La app se encuentra en: https://github.com/AlexMadu56/uci-heart-disease**
+**La app se encuentra en: https://uci-heart-disease-alexmadu56.streamlit.app**
 
 > **Aviso importante:** el modelo no es una herramienta diagnóstica. Un
 > resultado positivo no confirma una enfermedad y uno negativo no la descarta.
